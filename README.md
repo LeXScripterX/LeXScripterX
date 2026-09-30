@@ -36,11 +36,11 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
 
 #### Highlights
-
+<!--
 > Full list available at https://github.com/YOUR_USERNAME?tab=repositories
 
 | Project | Stars | Forks |
 |:---|:---|:---|
 | [Project 1](https://github.com/YOUR_USERNAME/REPO1): One-line description of what it does and the stack it uses. | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/REPO1?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/REPO1?style=flat-square&labelColor=343b41) |
 | [Project 2](https://github.com/YOUR_USERNAME/REPO2): One-line description of what it does and the stack it uses. | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/REPO2?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/REPO2?style=flat-square&labelColor=343b41) |
-| [Project 3](https://github.com/YOUR_USERNAME/REPO3): One-line description of what it does and the stack it uses. | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/REPO3?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/REPO3?style=flat-square&labelColor=343b41) |
+| [Project 3](https://github.com/YOUR_USERNAME/REPO3): One-line description of what it does and the stack it uses. | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/REPO3?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/REPO3?style=flat-square&labelColor=343b41) -->
