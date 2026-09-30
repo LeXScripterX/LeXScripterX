@@ -1,5 +1,6 @@
 #### Hello 👋
 
+<!--
 <a href="#stats" align="center">
   <picture>
     <source
@@ -13,10 +14,9 @@
     <img alt="Code stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&custom_title=code%20stats&langs_count=8&display_format=percent&theme=catppuccin_latte" />
   </picture>
 </a>
-
 > [!TIP]
 > Software engineering student and full-stack developer. I build web and mobile applications, from Java backends to cloud deployments on AWS. For collaboration, contact me at [youremail@example.com](mailto:youremail@example.com).
-
+-->
 #### Languages & Frameworks I use
 
 **Backend**
